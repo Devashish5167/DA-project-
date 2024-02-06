@@ -1,4 +1,41 @@
-# Sales Insights Data Analysis Project
+# Vrinda Stores Sales Report
 
-# Project Overview
+# Project overview
+
+
+Vrinda Stores aims to deepen its understanding of customers and boost sales in 2023. Through data analytics and customer insights, the company intends to refine marketing strategies, tailor product offerings, and enhance customer experiences to drive revenue growth and foster long-term loyalty in the upcoming year.
+
+### Data source
+
+Sales Data: the primary dataset used for this analysis is "Vrinda Store Raw data" file containing details about each sale made by the company.
+
+
+### Exploratory Data analysis
+
+EDA involves exploring sales data to anser key questions, such as:
+
+- Comparing the Sales and Orders
+- Which Month got the highest Sales and Orders
+- Who purchased more- Men or Women
+- What are different Order status in 2022
+- List of Top 5 States Contributing to Sales
+- Relation between Age and Gender based on Orders
+- Which Channel is Contributing to Maximum Sales
+- Highest selling Category
+
+### Sample Insights
+
+- Women are more likey to buy compared to Men
+- Maharashtra, karnataka and Uttarpradesh are the top 3 states
+- Adult age group (30-49yrs) is max Contributing
+- Amazon, Flipkart and Myntra are max Contributing
+
+### Final Conclusion to improve Vrinda Store Sales
+
+- Target Women Customers of Age Group(30-49yrs) Living in Maharashtra, Karnataka and Uttarpradesh by Showing ads/offers/coupons Available on Amazon, Flipkart and Myntra
+
+
+
+
+
 
